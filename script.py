@@ -18,9 +18,9 @@ except ImportError as e:
     VideoFileClip = None
 
 # Configurações
-USUARIO = "tambosi@protonmail.ch"
-SENHA = "OriDDovIWzC3RY"
-CAMINHO_ARQUIVOS = r"C:\Users\Anderson Tambosi\Desktop\gg"
+USUARIO = "AQUI USUARIO"
+SENHA = "SENHA"
+CAMINHO_ARQUIVOS = r"LOCAL DA PASTA AQUI"
 CAPTION_PADRAO = "Postado automaticamente. #automacao"
 
 def resize_image(image_path):
