@@ -1,9 +1,20 @@
-instagrapi==1.16.30
+# API e processamento
+instagrapi>=1.16.30
 Pillow>=9.5.0
 moviepy==1.0.3
-numpy>=1.26.0
-imageio==2.31.1
-imageio-ffmpeg==0.4.8
-proglog==0.1.10
-requests==2.31.0
-tqdm==4.65.0 
+python-dotenv==1.0.0
+
+# Notificações
+python-telegram-bot>=20.0
+aiosmtplib>=2.0
+
+# Utilitários
+pydantic>=2.0
+pydantic-settings>=2.0
+tenacity>=8.0
+colorama==0.4.6
+tqdm==4.65.0
+cryptography>=41.0.0
+
+# Logging e monitoramento
+structlog>=23.1.0

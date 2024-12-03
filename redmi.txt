@@ -1,25 +1,20 @@
-# 1. Criar o ambiente virtual
+# Guia de Instalação e Configuração
 
+# 1. Criar o ambiente virtual
+# Isso isola as dependências do projeto
 python -m venv venv
 
-----------------------------------------------
-
 # 2. Ativar o ambiente virtual
-
 # No Windows:
-
 venv\Scripts\activate
 
 # No Linux/Mac:
-
 # source venv/bin/activate
 
--------------------------------------------------
-
-# 3. Agora sim, instalar as dependências
-
+# 3. Instalar as dependências
+# Instala todos os pacotes necessários
 pip install -r requirements.txt
 
-# Open a terminal or command prompt
-
+# 4. Atualizar setuptools
+# Garante compatibilidade
 pip install --upgrade setuptools
