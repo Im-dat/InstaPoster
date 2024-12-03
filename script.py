@@ -18,10 +18,10 @@ except ImportError as e:
     VideoFileClip = None
 
 # Configurações
-USUARIO = "tambosi@protonmail.ch"
-SENHA = "OriDDovIWzC3RY"
-CAMINHO_ARQUIVOS = r"C:\Users\Anderson Tambosi\Desktop\gg"
-CAPTION_PADRAO = "Postado automaticamente. #automacao"
+USUARIO = "AQUI NOME DE USUARIO"
+SENHA = "AQUI SUA SENHA"
+CAMINHO_ARQUIVOS = r"LOCAL DA PASTA COM AS FOTO/VIDEIO"
+CAPTION_PADRAO = "COMENTARIOS AQUI Postado automaticamente. #automacao"
 
 def resize_image(image_path):
     """Redimensiona a imagem para as dimensões aceitas pelo Instagram"""
