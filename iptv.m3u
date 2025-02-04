@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1,Combate
-http://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%70%73/player3/ch.php?canal=combate
+http://redecanalistv.ps/player3/ch.php?canal=combate
 #EXTINF:-1,Cinecanal
-http://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%70%73/player3/ch.php?canal=cinecanal
+http://redecanalistv.ps/player3/ch.php?canal=cinecanal
 #EXTINF:-1,Discovery
-http://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%70%73/player3/ch.php?canal=discovery
+http://redecanalistv.ps/player3/ch.php?canal=discovery
 #EXTINF:-1,Discovery Kids
-http://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%70%73/player3/ch.php?canal=discoverykids
+http://redecanalistv.ps/player3/ch.php?canal=discoverykids
 #EXTINF:-1,Discovery Theater
-http://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%70%73/player3/ch.php?canal=discoverytheater
+http://redecanalistv.ps/player3/ch.php?canal=discoverytheater
 #EXTINF:-1,Discovery Turbo
-http://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%70%73/player3/ch.php?canal=discoveryturbo
+http://redecanalistv.ps/player3/ch.php?canal=discoveryturbo
 #EXTINF:-1,OFF
-http://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%70%73/player3/ch.php?canal=off
+http://redecanalistv.ps/player3/ch.php?canal=off
